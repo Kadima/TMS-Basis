@@ -12,5 +12,8 @@ appConfig.constant('ENV', {
     'updateFile':   'update.json',
     'rootPath':     'TMS',
     'configFile':   'config.txt',
+
     'version':      '1.0.2'
+
+
 });
